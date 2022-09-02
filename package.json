@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://dairedo7.github.io/filmoteka/",
+  "homepage": "https://Viktoriia1005.github.io/filmoteka-team-project/",
   "scripts": {
     "dev": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url /filmoteka-team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dairedo7/filmoteka.git"
+    "url": "git+https://github.com/Viktoriia1005/filmoteka-team-project.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
